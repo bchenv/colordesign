@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+}
+div{
+    padding: 5px;
+    border: 3px blue;
+    margin: 0;
+}
+html{
+    background-color: blueviolet;
+}
+#homeChoice:hover{
+    color:blue;
+    cursor:pointer;
+}
+#nextchoice:hover{
+color:blue;
+cursor:pointer;
+}
+#thirdchoice:hover{
+    color:blue;
+    cursor:pointer;
+}
+
+
